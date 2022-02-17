@@ -1,0 +1,58 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.conteiner {
+  width:700px;
+  margin: auto;
+  border-radius: 20px;
+  padding: 70px 50px;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+header {
+  text-align: center;
+  color: limegreen;
+  font-family: 'Ubuntu', sans-serif;
+  line-height: 0.4;
+}
+
+.logo {
+  width: 200px;
+}
+
+nav {
+  text-align: center;
+  border: 5px solid limegreen;
+  padding: 3px;
+  background-color: limegreen;
+}
+
+h2, p {
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
+  line-height: 0.6;
+}
+
+.barra-1 {
+  width: 190px;
+  height: 20px;
+  background-color: orange;
+  border-radius: 3px;
+}
+
+.barra-2 {
+  width: 470px;
+  height: 20px;
+  background-color: limegreen;
+  border-radius: 3px;
+}
+
+.barra-3 {
+  width: 100px;
+  height: 20px;
+  background-color: red;
+  border-radius: 3px;
+}
